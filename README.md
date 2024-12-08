@@ -82,5 +82,10 @@ B. CODE PROGRAM
 
 ![image](https://github.com/user-attachments/assets/fb0a6634-e778-4147-a8c8-9e0a2e536c7b)
 
+#
+
+C. HASIL RUNNING PROGRAM
+![ss tugas pyton](https://github.com/user-attachments/assets/3ca17ae6-3569-4a32-997a-d899de9c13b7)
+
 
 
