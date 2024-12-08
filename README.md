@@ -67,9 +67,20 @@ Jika pengguna memilih untuk keluar, program akan berhenti.
 
 
 
+
 8. Ulangi Menu:
 
 Setelah satu aksi selesai (tambah, tampil, hapus, atau ubah), tampilkan lagi menu utama untuk memilih aksi lainnya.
 
 Program akan terus berjalan hingga pengguna memilih untuk keluar
+
+#
+
+B. CODE PROGRAM
+
+![image](https://github.com/user-attachments/assets/9f4896c4-86f6-48d0-9969-7cc9153783e3)
+
+![image](https://github.com/user-attachments/assets/fb0a6634-e778-4147-a8c8-9e0a2e536c7b)
+
+
 
